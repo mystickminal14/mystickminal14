@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm Minal</h1>
 <h3 align="center">A passionate software developer</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
+<img align="center" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mystickminal14" alt="mystickminal14" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mystickminal" target="blank"><img src="https://img.shields.io/twitter/follow/mystickminal?logo=twitter&style=for-the-badge" alt="mystickminal" /></a> </p>
